@@ -1,4 +1,4 @@
-#Blogs
+# Blogs
 Welcome to the **Blogs Repository**! This repository contains blog posts on various topics.
 
 ## 📁 Structure
